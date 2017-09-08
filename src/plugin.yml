@@ -1,0 +1,6 @@
+main: bot.anti.Main
+author: Kalendarky
+name: Captcha
+version: 1.7
+commands:
+  captcha:
