@@ -1,0 +1,6 @@
+main: me.secure.Main
+author: Kalendarky
+name: Captcha_ultimate
+version: 1.7.5
+commands:
+  captcha:
